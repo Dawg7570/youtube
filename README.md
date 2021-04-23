@@ -8,3 +8,6 @@ adding next step
 who knows?
 git config --global user.name"Jeff Erisman"
 git config --global user.email "jeff.erisman@uga.edu
+
+git init
+
